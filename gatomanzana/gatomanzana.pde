@@ -1,7 +1,7 @@
 PImage imagen;
 
 void setup() {
-  size(500, 500);
+  size(500, 600);
   imagen = loadImage("gatomanzana.jpg");
 
   if (imagen == null) {
